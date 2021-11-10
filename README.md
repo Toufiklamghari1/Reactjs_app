@@ -1,5 +1,5 @@
 # Reactjs_app
-
+this application is created when I was learning reactjs from coursera web site 
 ## run the react app : 
 npm start
 
